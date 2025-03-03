@@ -7,7 +7,15 @@
       "RelativeMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|solutionrelative:httpsessionstate_3716368\\sessionstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|c:\\users\\estre\\documents\\sessionstate\\httpsessionstate_3716368\\httpsessionstate_3716368\\sessionstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|c:\\users\\estre\\documents\\sessionstate\\httpsessionstate_3716368\\httpsessionstate_3716368\\productconfirmsessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|solutionrelative:httpsessionstate_3716368\\productconfirmsessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|c:\\users\\estre\\documents\\sessionstate\\httpsessionstate_3716368\\httpsessionstate_3716368\\productconfirmsessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|solutionrelative:httpsessionstate_3716368\\productconfirmsessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\httpsessionstate_3716368\\sessionstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{72D88959-9EF7-4F7F-8942-2E8BD70E0B75}|HttpSessionState_3716368\\HttpSessionState_3716368.csproj|solutionrelative:httpsessionstate_3716368\\sessionstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductConfirmSessionVariables.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx.cs",
+              "RelativeDocumentMoniker": "HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx.cs",
+              "ToolTip": "C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx.cs",
+              "RelativeToolTip": "HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:58:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfirmSessionVariables.aspx",
+              "DocumentMoniker": "C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx",
+              "RelativeDocumentMoniker": "HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx",
+              "ToolTip": "C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx",
+              "RelativeToolTip": "HttpSessionState_3716368\\ProductConfirmSessionVariables.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T01:56:36.265Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +62,14 @@
               "RelativeDocumentMoniker": "HttpSessionState_3716368\\SessionState.aspx.cs",
               "ToolTip": "C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\HttpSessionState_3716368\\SessionState.aspx.cs",
               "RelativeToolTip": "HttpSessionState_3716368\\SessionState.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T01:45:40.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SessionState.aspx",
               "DocumentMoniker": "C:\\Users\\estre\\Documents\\SessionState\\HttpSessionState_3716368\\HttpSessionState_3716368\\SessionState.aspx",
               "RelativeDocumentMoniker": "HttpSessionState_3716368\\SessionState.aspx",

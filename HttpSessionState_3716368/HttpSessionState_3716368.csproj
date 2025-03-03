@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-3.7.1.intellisense.js" />
+    <Content Include="ProductConfirmSessionVariables.aspx" />
     <Content Include="Scripts\jquery-3.7.1.js" />
     <Content Include="Scripts\jquery-3.7.1.min.js" />
     <Content Include="Scripts\jquery-3.7.1.slim.js" />
@@ -79,6 +80,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProductConfirmSessionVariables.aspx.cs">
+      <DependentUpon>ProductConfirmSessionVariables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductConfirmSessionVariables.aspx.designer.cs">
+      <DependentUpon>ProductConfirmSessionVariables.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SessionState.aspx.cs">
       <DependentUpon>SessionState.aspx</DependentUpon>

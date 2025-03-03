@@ -17,7 +17,7 @@ namespace HttpSessionState_3716368
         protected void btnConfirm_Click(object sender, EventArgs e)
         {
             // Guarda las variables de sesión.
-            Session["dd1Category"] = ddlCategory.SelectedValue;
+            Session["ddlCategory"] = ddlCategory.SelectedValue;
             Session["ddlSupplier"] = ddlSupplier.SelectedValue;
             Session["strProduct"] = txtProduct.Text;
             Session["strDescription"] = txtDescription.Text;
